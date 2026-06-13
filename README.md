@@ -94,13 +94,13 @@ Japón,125800000,377975,Asia
 
 ## Documentación
 
-- 📄 Documento PDF (marco teórico, diagrama de flujo, capturas y conclusiones)
+📄 Documento PDF: [PDF_TPI_Programacion.pdf](PDF_TPI_Programacion.pdf)
 
 ## Repositorio
 
 https://github.com/pablokunz10/tpi_gestion_paises_python
   
-- 🎥 Video explicativo: 
+🎥 Video explicativo: 
 
 
 
