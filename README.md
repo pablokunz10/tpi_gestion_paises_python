@@ -94,10 +94,14 @@ Japón,125800000,377975,Asia
 
 ## Documentación
 
-- 📄 Documento PDF (marco teórico, diagrama de flujo, capturas y conclusiones):
-  [completar enlace o ver archivo en la raíz del repositorio]
-- 🎥 Video explicativo: [completar enlace público al video]
+- 📄 Documento PDF (marco teórico, diagrama de flujo, capturas y conclusiones)
 
-## Materia
+## Repositorio
+
+https://github.com/pablokunz10/tpi_gestion_paises_python
+  
+- 🎥 Video explicativo: 
+
+
 
 Programación 1 — Tecnicatura Universitaria en Programación a Distancia (UTN)
