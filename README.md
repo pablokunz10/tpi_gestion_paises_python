@@ -112,5 +112,5 @@ Japan,125800000,377975,Asia
 
 ## Documentation
 
-📄 [Full project documentation (PDF)](Documentacion_TPI_Programacion1.pdf)
+📄 [Full project documentation (PDF)](technical_documentation.pdf)
 
